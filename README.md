@@ -1,0 +1,2 @@
+# SimpleNotepad
+シンプルなメモ帳。
